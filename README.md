@@ -4,4 +4,4 @@
 
 # 📖 Documentação
 ## Core Concepts
-- [Cliente vs Sever](docs/core-concepts/client-vs-server.md)
+- [Cliente vs Server](docs/core-concepts/client-vs-server.md)
