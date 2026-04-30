@@ -2,5 +2,6 @@
 > ⚠Este repositório é uma documentação não oficial do Fabric.
 > Criei esse repositório com o intuito de documentar funcionalidade que precisei descobrir como implementar durante minha experiência no desenvolvimento de mods com Fabric
 
-##Documentação
-- [Core Concepts](docs/core-concepts)
+# 📖 Documentação
+## Core Concepts
+- [Cliente vs Sever](docs/core-concepts/client-vs-server.md)
