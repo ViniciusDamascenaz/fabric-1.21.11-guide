@@ -9,12 +9,12 @@ No jogo a hierarquia dos seres vivos é liderada pelas pelo termo entidade.
 ## Como usar
 
 ´´´java                                                         
-                                                //Essa função pede o mundo em que será spawnado o mob e ele pede um motivo pelo qual esta sendo spawnado. "Triggered" diz para o jog que esse mob foi criado.
+                                                //Essa função pede o mundo em que será spawnado o mob e ele pede um motivo pelo qual esta sendo spawnado. "Triggered" diz para o jog que esse mob foi     criado.
 
-Entity minhaEntidade = entityType.ZOMBIE.create(serverWorld, SpawnReason.TRIGGERED);
+  Entity minhaEntidade = entityType.ZOMBIE.create(serverWorld, SpawnReason.TRIGGERED);
 
-serverWorld.spawnEntity(minhaEntidade);
-´´´
+  serverWorld.spawnEntity(minhaEntidade);
+
 
 
 
